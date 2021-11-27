@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\bin\Debug\TouchClassManage.exe.config
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\bin\Debug\TouchClassManage.exe
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\bin\Debug\TouchClassManage.pdb
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\bin\Debug\TouchClassManage.xml
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\obj\Debug\TouchClassManage.vbprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\obj\Debug\TouchClassManage.Resources.resources
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\obj\Debug\TouchClassManage.vbproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\obj\Debug\TouchClassManage.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\obj\Debug\TouchClassManage.exe
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\obj\Debug\TouchClassManage.xml
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\obj\Debug\TouchClassManage.pdb
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\obj\Debug\TouchClassManage.主页.resources
+C:\Users\lenovo\source\repos\LBDLMOS\C008_TouchClassManage\PC\TouchClassManage\obj\Debug\TouchClassManage.指纹识别.resources
