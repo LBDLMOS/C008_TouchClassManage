@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-C008_TouchClassManage",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
